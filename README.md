@@ -4,7 +4,7 @@ FireLab is an early retirement calculator for Australians. It works out when you
 
 ## Contact
 
-Questions, bug reports or feedback: **SUPPORT_EMAIL**
+Questions, bug reports or feedback: **firelabsupport@gmail.com**
 
 Please include your iPhone model and iOS version if you're reporting a problem. I'll get back to you as soon as I can.
 
