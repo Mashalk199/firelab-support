@@ -45,4 +45,4 @@ If this policy changes, the updated version will be posted on this page with a n
 
 ## Contact
 
-Questions about this policy: **SUPPORT_EMAIL**
+Questions about this policy: **firelabsupport@gmail.com**
